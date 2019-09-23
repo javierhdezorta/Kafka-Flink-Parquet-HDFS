@@ -1,0 +1,35 @@
+{
+   "type":"record",
+   "name":"FlinkParquet",
+   "namespace":"javier",
+   "fields":[
+      {
+         "name":"id",
+         "type":[
+            "string",
+            "null"
+         ]
+      },
+      {
+         "name":"movie",
+         "type":[
+            "string",
+            "null"
+         ]
+      },
+      {
+         "name":"date",
+         "type":[
+            "string",
+            "null"
+         ]
+      },
+      {
+         "name":"imdb",
+         "type":[
+            "string",
+            "null"
+         ]
+      }
+   ]
+}
